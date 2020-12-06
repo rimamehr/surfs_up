@@ -10,4 +10,4 @@ On a trip to Oahu, Hawaii I decided to open up a surf and shake shop serving sur
 
 <img src="/Images/June_Temps.png"/> <img src="/Images/Dec_Temps.png"/>
 
-![](June_Temps.png "June Temperatures") ![](Dec_Temps.png "December Temperatures")
+![](/Images/June_Temps.png"/ "June Temperatures") ![](/Images/Dec_Temps.png"/ "December Temperatures")
