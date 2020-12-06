@@ -12,6 +12,7 @@ On a trip to Oahu, Hawaii I decided to open up a surf and shake shop serving sur
 
 
 ## Additional Analysis:
+   - We could additionally look at the precipetation comparison for June and Dec.
 
 <img src="/Images/June_Precp.png" align="left"/> <img src="/Images/Dec_Precp.png" align="center"/>
 
