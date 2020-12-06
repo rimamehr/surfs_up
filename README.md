@@ -8,3 +8,8 @@ On a trip to Oahu, Hawaii I decided to open up a surf and shake shop serving sur
 <p align="left">
   <img src="/Images/June_Temps.png">
   </p>
+  
+  
+ <p align="left">
+  <img src="/Images/Dec_Temps.png">
+  </p>
