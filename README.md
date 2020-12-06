@@ -8,7 +8,7 @@ On a trip to Oahu, Hawaii I decided to open up a surf and shake shop serving sur
    - The average temp for June is 75F and for December its 71F which makes this location an idea spot for a surf and shake shop to do well year round.
    
 
-<img src="/Images/June_Temps.png" align="left"/> <img src="/Images/Dec_Temps.png" align="right"/>
+<img src="/Images/June_Temps.png" align="center"/> <img src="/Images/Dec_Temps.png" align="center"/>
 
 
 
