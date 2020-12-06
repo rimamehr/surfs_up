@@ -5,3 +5,6 @@ On a trip to Oahu, Hawaii I decided to open up a surf and shake shop serving sur
 
 ## Results of the Analysis:
    - 
+<p align="left">
+  <img src="/Images/June_Temps.png">
+  </p>
